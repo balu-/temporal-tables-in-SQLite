@@ -1,6 +1,8 @@
 # temporal-tables-in-SQLite
 
-A simple script to create a temporale table & triggers for an existing table in SQLite
+A simple script to create a temporale table & triggers for an existing table in SQLite.
+
+More Details about the topic at https://www.ohnekontur.de/2024/02/19/unlocking-time-harnessing-the-power-of-temporal-tables-in-sqlite/
 
 ## Usage
 
